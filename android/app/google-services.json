@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799561816035",
+    "project_id": "mad-project-b7f17",
+    "storage_bucket": "mad-project-b7f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799561816035:android:aa7b1534c946880571f2d6",
+        "android_client_info": {
+          "package_name": "com.halbas.buybes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799561816035-6ud0tsdol0u6557s3sn09hff1b9fj6a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA12RObH9JZDSMnpsBgjw65DNkOCF4FWj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799561816035-6ud0tsdol0u6557s3sn09hff1b9fj6a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
